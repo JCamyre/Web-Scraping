@@ -1,0 +1,248 @@
+
+School
+, 
+State/Country
+: 
+Require or Recommend
+
+
+Abilene Christian University, TX: Recommend
+
+Albany College of Pharmacy and Health Sciences, NY: Recommend
+
+Allegheny College, PA: Recommend
+
+Amherst College, MA: Recommend
+
+Art Institute of Houston, TX: Recommend
+
+Augsburg University, MN: Recommend
+
+Austin College, TX: Recommend
+
+Benedictine University, IL: Require
+
+Caldwell University, NJ: Recommend
+
+California State University, Northridge, CA: Recommend
+
+Central Connecticut State University, CT: Recommend
+
+Central Michigan University, MI: Recommend
+
+Cheyney University of Pennsylvania, PA: Recommend
+
+City University London, UK: Require
+
+Coastal Carolina University, SC: Recommend
+
+College of Wooster, OH: Recommend
+
+Colorado School of Mines, CO: Recommend
+
+Cooper Union for the Advancement of Science and Art, NY: Recommend
+
+Corban University, OR: Recommend
+
+Cornerstone University, MI: Recommend
+
+Dallas Christian College, TX: Recommend
+
+Davidson College, NC: Recommend
+
+Delaware State University, DE: Require
+
+DeSales University, PA: Require
+
+Dominican University of California, CA: Require
+
+Eastern University, PA: Recommend
+
+Eastern Illinois University, IL: Recommend
+
+Eastern Nazarene College, MA: Recommend
+
+Five Towns College, NY: Recommend
+
+Gallaudet University, DC: Recommend
+
+George Washington University, DC: Recommend
+
+Georgia Highlands College, GA: Recommend
+
+Greenville University, IL: Recommend
+
+High Point University, NC: Require
+
+Hofstra University, NY: Recommend
+
+Holy Family University, PA: Recommend
+
+Howard University, DC: Recommend
+
+Husson University, ME: Recommend
+
+Indiana University Southeast, IN: Recommend
+
+Indiana Wesleyan University, IN: Recommend
+
+Inter American University of Puerto Rico: Barranquitas Campus, Puerto Rico: Recommend
+
+John Wesley University, NC: Require
+
+Juilliard School, NY: Recommend
+
+Kentucky State University, KY: Require
+
+Lehigh University, PA: Recommend
+
+Madonna University, MI: Recommend
+
+Manhattan College, NY: Recommend
+
+Martin Luther College, MN: Require
+
+Marymount California University, CA: Recommend
+
+Massachusetts Maritime Academy, MA: Recommend
+
+McMurry University, TX: Recommend
+
+Molloy College, NY: Require
+
+Montana Tech of the University of Montana, MT: Recommend
+
+Morehouse College, GA: Recommend
+
+Mount Saint Mary College, NY: Recommend
+
+Mount St. Joseph University, OH: Recommend
+
+New Jersey City University, NJ: Recommend
+
+Nichols College, MA: Recommend
+
+North Park University, IL: Recommend
+
+Occidental College, CA: Recommend
+
+Ohio University, OH: Recommend
+
+Oregon State University, OR: Recommend
+
+Purdue University Northwest, IN: Recommend
+
+Randall University, OK: Recommend
+
+Randolph-Macon College, VA: Recommend
+
+Reading Area Community College, PA: Recommend
+
+Rowan University, NJ: Recommend
+
+Rutgers University—Camden Campus, NJ: Recommend
+
+Saint Michael's College, VT: Recommend
+
+Schreiner University, TX: Require
+
+SciencesPo, France: Recommend
+
+Seton Hill University, PA: Recommend
+
+Shiloh University, IA: Recommend
+
+Shippensburg University of Pennsylvania, PA: Recommend
+
+Silver Lake College of the Holy Family, WI: Recommend
+
+Soka University of America, CA: Require
+
+Southern California Institute of Architecture, CA: Require
+
+Southern Illinois University Carbondale, IL: Recommend
+
+Southern Oregon University, OR: Recommend
+
+Spring Hill College, AL: Recommend
+
+Stanford University, CA: Recommend
+
+Sul Ross State University, TX: Recommend
+
+SUNY Farmingdale State College, NY: Recommend
+
+SUNY University at Stony Brook, NY: Recommend
+
+Texas A&M International University, TX: Recommend
+
+Texas A&M University, TX: Recommend
+
+Texas A&M University—Galveston, TX: Require
+
+Texas State University, TX: Recommend
+
+The King's College, NY: Recommend
+
+United States Military Academy (West Point), NY: Require
+
+University of California, Berkeley (UC Berkeley), CA: Require
+
+University of California, Davis (UC Davis), CA: Require
+
+University of California, Irvine (UC Irvine), CA: Require
+
+University of California, Los Angeles (UCLA), CA: Require
+
+University of California, Merced, CA: Require
+
+University of California, Riverside, CA: Require
+
+University of California, San Diego (UCSD), CA: Require
+
+University of California, Santa Barbara (UCSB), CA: Require
+
+University of California, Santa Cruz, CA: Require
+
+University of Evansville, IN: Recommend
+
+University of La Verne, CA: Recommend
+
+University of Mary Hardin—Baylor, TX: Recommend
+
+University of Massachusetts Amherst, MA: Recommend
+
+University of Minnesota, Twin Cities, MN: Recommend
+
+University of New England, ME: Recommend
+
+University of North Texas, TX: Require
+
+University of the Virgin Islands, Virgin Islands: Recommend
+
+University of Toledo, OH: Recommend
+
+University of Washington Bothell, WA: Recommend
+
+VanderCook College of Music, IL: Recommend
+
+Virginia Union University, VA: Recommend
+
+Wabash College, IN: Recommend
+
+Webb Institute, NY: Recommend
+
+Webber International University, FL: Recommend
+
+Wesleyan College, GA: Recommend
+
+West Virginia University, WV: Require
+
+West Virginia University Institute of Technology, WV: Require
+
+Western Carolina University, NC: Require
+
+William Jessup University, CA: Recommend
+
+William Jewell College, MO: Recommend
+
